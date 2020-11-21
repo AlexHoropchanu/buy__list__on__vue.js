@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+h3 {
+  text-align: center;
+}
+li {
+  border-bottom: 1px solid #000;
+  width: 250px;
+  padding-bottom: 16px;
+  padding-top: 8px;
+}
